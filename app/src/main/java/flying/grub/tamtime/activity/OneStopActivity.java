@@ -74,15 +74,7 @@ public class OneStopActivity extends AppCompatActivity {
         getSupportActionBar().setHomeButtonEnabled(true);
 
         if(stop.getMark() == -1) //Default mark, no one have mark this stop
-<<<<<<< HEAD
-<<<<<<< HEAD
             getSupportActionBar().setTitle(stop.getName());
-=======
-            getSupportActionBar().setTitle(stop.getName() + " (NA / 5)");
->>>>>>> 00b835b075b90da25e4a3f40f54bc90ed004d2b0
-=======
-            getSupportActionBar().setTitle(stop.getName());
->>>>>>> mark
         else
             getSupportActionBar().setTitle(stop.getName() + " (" + stop.getMark() + " / 5)");
         toolbar.setNavigationOnClickListener(new View.OnClickListener() {
@@ -181,22 +173,9 @@ public class OneStopActivity extends AppCompatActivity {
                 return true;
 
             case R.id.action_mark_stop:
-<<<<<<< HEAD
-<<<<<<< HEAD
                 Collection<CharSequence> marks = new ArrayList<>();
                 for (int t_index = 0; t_index <= MarkEvent.MARK_LIMIT; t_index++)
                     marks.add(t_index + " / " + MarkEvent.MARK_LIMIT);
-=======
-                int t_mark_limit = 5;
-                Collection<CharSequence> marks = new ArrayList<>();
-                for (int t_index = t_mark_limit; t_index != 0; t_index--) //Decreasing
-                    marks.add(t_index + " / " + t_mark_limit);
->>>>>>> 00b835b075b90da25e4a3f40f54bc90ed004d2b0
-=======
-                Collection<CharSequence> marks = new ArrayList<>();
-                for (int t_index = 0; t_index <= MarkEvent.MARK_LIMIT; t_index++)
-                    marks.add(t_index + " / " + MarkEvent.MARK_LIMIT);
->>>>>>> mark
 
                 CharSequence[] marks_string = marks.toArray(new CharSequence[marks.size()]);
 
@@ -206,17 +185,10 @@ public class OneStopActivity extends AppCompatActivity {
                         .itemsCallback(new MaterialDialog.ListCallback() {
                             @Override
                             public void onSelection(MaterialDialog dialog, View view, int which, CharSequence text) {
-<<<<<<< HEAD
-<<<<<<< HEAD
+
                                 Data.getData().getMarkEvent().sendMark(getBaseContext(), stop.getID(), which);
                                 Data.getData().update();
-=======
-                                //TODO : Send mark to the server
->>>>>>> 00b835b075b90da25e4a3f40f54bc90ed004d2b0
-=======
-                                Data.getData().getMarkEvent().sendMark(getBaseContext(), stop.getID(), which);
-                                Data.getData().update();
->>>>>>> mark
+
                                 dialog.dismiss();
                             }
                         }).build();

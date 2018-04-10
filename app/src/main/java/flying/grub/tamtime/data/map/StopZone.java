@@ -24,15 +24,7 @@ public class StopZone {
     /*
     School project
      */
-<<<<<<< HEAD
-<<<<<<< HEAD
     private double mark;
-=======
-    private float mark;
->>>>>>> 00b835b075b90da25e4a3f40f54bc90ed004d2b0
-=======
-    private double mark;
->>>>>>> mark
 
     public StopZone(String name, int _id, int tam_id, int cityway_id, String search_name, double lat, double lon){
         this.lines = new ArrayList<>();
@@ -116,28 +108,12 @@ public class StopZone {
         return stops;
     }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
     public double getMark()
-=======
-    public float getMark()
->>>>>>> 00b835b075b90da25e4a3f40f54bc90ed004d2b0
-=======
-    public double getMark()
->>>>>>> mark
     {
         return mark;
     }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
     public void setMark(double mark)
-=======
-    public void setMark(float mark)
->>>>>>> 00b835b075b90da25e4a3f40f54bc90ed004d2b0
-=======
-    public void setMark(double mark)
->>>>>>> mark
     {
         this.mark = mark;
     }
