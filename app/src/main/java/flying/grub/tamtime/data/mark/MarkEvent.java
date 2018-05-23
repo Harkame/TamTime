@@ -98,7 +98,7 @@ public class MarkEvent {
 
                 StopZone stop = Data.getData().getMap().getStopZoneById(reportObjectJson.getInt("stop_id"));
 
-                stop.setMarkAverage(new MarkAverage(count_marks, count_marks));
+                stop.setMarkAverage(new MarkAverage(mark_average, count_marks));
             }
         } catch (JSONException e) {
             e.printStackTrace();
