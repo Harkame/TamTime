@@ -30,7 +30,7 @@ public class StopZoneLocationListener implements LocationListener{
         Log.d(TAG, "onLocationChanged");
         for(StopZone stopZone : Data.getData().getMap().getStopZones())
         {
-            if(stopZone.getLocation().distanceTo(location) < 50 && location.getSpeed() < 5)
+            if(stopZone.getLocation().distanceTo(location) < 10 && location.getSpeed() < 5)
             {
                 Log.d(TAG, "StopZone close : " + stopZone.getStops().get(0).getTimes().get(0).getWaitingTime());
 
