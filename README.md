@@ -1,3 +1,10 @@
+Pour notre projet Android nous avons décidé de développer une autre application que celle proposé par le cours. 
+Nous avons donc décidé de mettre en œuvre une application mobile ayant pour principale fonctionnalité d'avoir accès aux horaires de la Tam pour les bus et les trams permettant à l'utilisateur de connaître les prochains passages d'une ligne à un arrêt donné. 
+
+D'autres fonctionnalités seront également implémentées pour répondre aux besoins du cours ainsi qu'à ceux de l'application.
+
+La plus part des données de l'application (lignes, arrêts, horaires) sont obtenus via l'api de la Tam.
+
 Au lancement de l'application, nous sommes sur la page d'accueil.
 
 Afficher le menu de navigation
