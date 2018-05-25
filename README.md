@@ -46,11 +46,8 @@ Rester appuyé sur l'endroit ou l'on veux placer un marqueur.
 Afficher les lignes de Tram ou de Bus.
 -
 En haut de la carte, appuyer sur le bouton radio Tram poura afficher les lignes de tram.
+
 Sur le bouton radio Bus, pour les lignes de bus.
-
-
-Afficher les arrêts proche via le gps
-
 
 Evenements
 =
