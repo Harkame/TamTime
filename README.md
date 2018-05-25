@@ -68,13 +68,6 @@ Affichage horaire en temps réel via l'api de la tam
 Ouvrir le menu de navigation.
 Cliquer sur lignes/arrêts, puis sur la ligne ou l'arrêt pour en afficher les horaires.
 
-Noter la propreté d'un arrêt (Moyenne de chaque note par utilisateur (identifiant android))
--
-Météo pour chaque arrêts (Voir précision possible (rue, quartier, etc))
--
-Sur la fenêtre d'un arrêt, cliquer en haut à gauche sur le menu contextuelle.
-Cliquer sur, "La météo de cet arrêt"
-
 Autres menus
 =
 Ouvrir le menu de navigation, cliquer sur paramètre
