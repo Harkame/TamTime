@@ -72,8 +72,8 @@ Cliquer sur lignes/arrêts, puis sur la ligne ou l'arrêt pour en afficher les h
 
 Autres menus
 =
-Ouvrir le menu de navigation, cliquer sur paramètre
-Ouvrir le menu de navigation, cliquer sur A propos
+Ouvrir le menu de navigation, cliquer sur "Paramètre"
+Ouvrir le menu de navigation, cliquer sur "A propos"
 
 Simulation
 =
