@@ -64,7 +64,9 @@ Ouvrir le menu de navigation, cliquer sur "Les signalements"
 Horaire
 =
 Affichage horaire en temps réel via l'api de la tam
+
 Ouvrir le menu de navigation.
+
 Cliquer sur lignes/arrêts, puis sur la ligne ou l'arrêt pour en afficher les horaires.
 
 Autres menus
