@@ -3,6 +3,7 @@ Au lancement de l'application, nous sommes sur la page d'accueil.
 Afficher le menu de navigation
 -
 Faire glisser votre doigt depuis la gauche de l'écran jusqu'au milieu.
+Ou appuyer sur l'icone du menu situé dans 
 
 Arrêt
 =
@@ -37,26 +38,29 @@ Carte
 =
 Acceder au menu de navigation, puis cliquer sur "La carte"
 
-Des lieux importants (Mairie, etc) sont afficher sur la carte.
+Des lieux importants (Mairie, etc) sont afficher sur la carte. appuyer dessus pour obtenir des informations (principalement le nom).
 
 Pouvoirs mettre des marqueurs sur la carte (Lieu important pour l'utilisateur, différent pour chacun)
 -
-Rester appuyé sur l'endroit ou l'on veux placer un marqueur.
+Rester appuyé sur l'endroit où l'on veux placer un marqueur.
 
 Afficher les lignes de Tram ou de Bus.
 -
-En haut de la carte, appuyer sur le bouton radio Tram poura afficher les lignes de tram.
-
+En haut de la carte, appuyer sur le bouton radio Tram pour afficher les lignes de tram.
 Sur le bouton radio Bus, pour les lignes de bus.
+
+appuyer sur une ligne affiche (dans un toast) le nom (ou son numéro) de celle ci.
+
+
+Afficher les arrêts proche via le gps
+
 
 Evenements
 =
 Permettre le signalement d'evenement lié à un arret ou une ligne / disfonctionement / présence de controleur avec une partie serveur codée par nous
 -
 Sur la fenêtre d'un arrêt, cliquer sur l'icone en forme de cloche, en haut haut de l'écran.
-
 Choisissez le type d'evenement.
-
 Confirmer l'evenement.
 
 Afficher ces signalements dans l'application
@@ -66,19 +70,16 @@ Ouvrir le menu de navigation, cliquer sur "Les signalements"
 Horaire
 =
 Affichage horaire en temps réel via l'api de la tam
-
 Ouvrir le menu de navigation.
-
 Cliquer sur lignes/arrêts, puis sur la ligne ou l'arrêt pour en afficher les horaires.
 
 Autres menus
 =
-Ouvrir le menu de navigation, cliquer sur "Paramètre"
-
-Ouvrir le menu de navigation, cliquer sur "A propos"
+Ouvrir le menu de navigation, cliquer sur paramètre
+Ouvrir le menu de navigation, cliquer sur A propos
 
 Simulation
 =
 Si l'on se trouve à moins de 3metre d'un arret et avec une vitesse faible < 5km/h : Notification avec les prochains horaires
 _
-  Fonctionnalité émulée, passer de nouvelle coordonnéee au téléphone virtuel, une notificaiton va alors apparaitre avec le nom de l'arrêt et les prochains passages, si un arrêt se trouve à moins de 10 mètres avec une vitesse < 5 km/h.
+  Fonctionnalité émulée, passer de nouvelle coordonnéee au téléphone virtuel, une notificaiton va alors apparaitre si un arrêt se trouve à moins de 10 mètres avec une vitesse < 5 km/h.
