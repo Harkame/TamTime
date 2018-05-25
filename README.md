@@ -36,6 +36,7 @@ Sur la fenêtre d'un arrêt, cliquer sur le menu contextuel en haut à gauche pu
 Carte
 =
 Acceder au menu de navigation, puis cliquer sur "La carte"
+
 Des lieux importants (Mairie, etc) sont afficher sur la carte.
 
 Pouvoirs mettre des marqueurs sur la carte (Lieu important pour l'utilisateur, différent pour chacun)
