@@ -9,6 +9,7 @@ Arrêt
 Gestion des arrêts favoris
 -
 Sur la page d'accueil, cliquer sur le menu contextuel de l'arrêt à gérer.
+
 Recherche d'un arret par son nom
 -
 Sur la page d'accueil, saisire le nom de l'arrêt dans la barre de recherche (Rechercher un arrêt)
