@@ -3,7 +3,7 @@ Au lancement de l'application, nous sommes sur la page d'accueil.
 Afficher le menu de navigation
 -
 Faire glisser votre doigt depuis la gauche de l'écran jusqu'au milieu.
-Ou appuyer sur l'icone du menu situé dans 
+Ou appuyer sur l'icone du menu situé en haut a gauche de l'écran. 
 
 Arrêt
 =
