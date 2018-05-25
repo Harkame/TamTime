@@ -6,21 +6,21 @@ Faire glisser votre doigt depuis la gauche de l'écran jusqu'au milieu.
 
 Arrêt
 =
-Gestion des arrêts favoris
--
-Sur la page d'accueil, cliquer sur le menu contextuel de l'arrêt à gérer.
-
-Recherche d'un arret par son nom
--
-Sur la page d'accueil, saisire le nom de l'arrêt dans la barre de recherche (Rechercher un arrêt)
-CLiquer sur l'arrêt recherché.
-
-Dans la  liste des arrêts, cliquer sur l'icone en forme de loupe, puis saisire le nom de l'arrêt.
-Cliquer sur l'arrêt recherché.
-
 Permettre d'ajouter des arrets favoris sur l'accueil pour y acceder facilement
 -
 Sur la fenêtre d'un arrêt, cliquer sur l'icone en forme d'étoile pour ajouter l'arrêt au favoris. (Si l'étoile est pleine, l'arrêt est dans les favoris)
+
+Gestion des arrêts favoris
+-
+Sur la page d'accueil, dans la partie "Arrêts Favoris", cliquer sur l'icone menu du favoris pour acceder à sa gestion.
+
+Recherche d'un arret par son nom
+-
+Sur la page d'accueil, saisir le nom de l'arrêt dans la barre de recherche (Rechercher un arrêt)
+CLiquer sur l'arrêt recherché.
+OU
+Dans la  liste des arrêts, cliquer sur l'icone en forme de loupe, puis saisir le nom de l'arrêt.
+Cliquer sur l'arrêt recherché.
 
 Noter un arrêt
 -
