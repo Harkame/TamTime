@@ -54,7 +54,9 @@ Evenements
 Permettre le signalement d'evenement lié à un arret ou une ligne / disfonctionement / présence de controleur avec une partie serveur codée par nous
 -
 Sur la fenêtre d'un arrêt, cliquer sur l'icone en forme de cloche, en haut haut de l'écran.
+
 Choisissez le type d'evenement.
+
 Confirmer l'evenement.
 
 Afficher ces signalements dans l'application
@@ -79,4 +81,4 @@ Simulation
 =
 Si l'on se trouve à moins de 3metre d'un arret et avec une vitesse faible < 5km/h : Notification avec les prochains horaires
 _
-  Fonctionnalité émulée, passer de nouvelle coordonnéee au téléphone virtuel, une notificaiton va alors apparaitre si un arrêt se trouve à moins de 10 mètres avec une vitesse < 5 km/h.
+  Fonctionnalité émulée, passer de nouvelle coordonnéee au téléphone virtuel, une notificaiton va alors apparaitre avec le nom de l'arrêt et les prochains passages, si un arrêt se trouve à moins de 10 mètres avec une vitesse < 5 km/h.
